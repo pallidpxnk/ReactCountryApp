@@ -1,4 +1,4 @@
 # ReactCountryApp
-to install app use this commands:
-npm install
+to install app use this commands:<br />
+npm install<br />
 npm start
